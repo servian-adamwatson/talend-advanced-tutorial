@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_E25MYd7XEeeMZ6mOevfGRw" label="Talend DI Advanced Tutorial" description="Talend Advanced DI Tutorial Project" language="java" technicalLabel="TALEND_DI_ADVANCED_TUTORIAL" creationDate="2017-12-12T11:17:01.000+1100" author="_E25zcN7XEeeMZ6mOevfGRw" productVersion="Talend Data Fabric-6.3.0.20161026_1012-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/servian-adamwatson/talend-advanced-tutorial.git&quot;,&quot;login&quot;:&quot;servian-adamwatson&quot;,&quot;passwd&quot;:&quot;ud5kqi0Awn80qCcJfNX4Uw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_E25zcN7XEeeMZ6mOevfGRw" login="tristan.sander@servian.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
