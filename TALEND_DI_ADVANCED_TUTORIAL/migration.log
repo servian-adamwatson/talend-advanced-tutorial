@@ -357,3 +357,5 @@
  * Task [Change MSSQL DBVersion] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project Talend DI Advanced Tutorial ===---
+ * Task [AddJavaVersionMigrationTask] : Applied successfully
